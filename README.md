@@ -20,4 +20,5 @@ PRZEBIEG GRY:
 Jako że program operuje na plikach tekstowych, użytkownik bardzo łatwo może nieświadomie usunąć istotne dla przebiegu rozgrywki pliki. Gra jest jednak odporna na przypadkowe usunięcie bądź niedozwolone próby ingerencji w treść bazy bądź statystyk -  wówczas generowane są nowe pliki oraz odblokowywana opcja wyboru nowej bazy do nauki.
 
 W katalogu dist znajduje się plij jpwp.jar - skompilowana aplikacja oraz wszystkie potrzebne ilustracje i pliki tekstowe.
+
 W katalogu src/jpwp znajdują się kody żródłowe programu.
