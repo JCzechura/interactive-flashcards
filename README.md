@@ -17,3 +17,4 @@ PRZEBIEG GRY:
 - W celu optymalnego przyswajania wiadomości zaleca się korzystać z gry codziennie oraz tworzyć odpowiednie – nie za duże lecz też nie za małe – bazy danych.
 
 
+Jako że program operuje na plikach tekstowych, użytkownik bardzo łatwo może nieświadomie usunąć istotne dla przebiegu rozgrywki pliki. Gra jest jednak odporna na przypadkowe usunięcie bądź niedozwolone próby ingerencji w treść bazy bądź statystyk -  wówczas generowane są nowe pliki oraz odblokowywana opcja wyboru nowej bazy do nauki.
