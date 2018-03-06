@@ -1,0 +1,5 @@
+green#zielony
+yellow#¿ó³ty
+black#czarny
+white#bia³y
+pink#ró¿owy
